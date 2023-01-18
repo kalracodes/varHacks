@@ -9,6 +9,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "three": "^0.148.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +35,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalracodes/varHacks.git"
+  },
+  "author": "Aryan Kalra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalracodes/varHacks/issues"
+  },
+  "homepage": "https://github.com/kalracodes/varHacks#readme"
 }
